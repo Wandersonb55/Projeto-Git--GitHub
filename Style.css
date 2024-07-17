@@ -7,7 +7,7 @@ h1{
     font-size:70px;
     border:5px;
     color: red;
-    font-family:Georgia, 'Times New Roman', Times, serif
-    padding:40%;
-    padding-left:50%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: auto;
+    padding-left: 50%;
 }
