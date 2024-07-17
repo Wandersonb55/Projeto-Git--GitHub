@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(107, 21, 21);
+    background-color: rgb(210, 91, 91);
 }
 h1{
-    font-size: 50px;
-    font-family:verdana;
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif;
     padding:40px;
     padding-left:28%;
 }
