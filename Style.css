@@ -1,5 +1,5 @@
 body{
-    background: url(Imagens/tec.jpg);
+    background: url (Imagens/tec.jpg) width:300px; heigth:200px;
 }
 h1{
     font-size: 50px;
