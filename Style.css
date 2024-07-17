@@ -1,9 +1,13 @@
 body{
-    background-color: rgb(107, 21, 21);
+background-image: url(Imagens/dragon.jpg.jpg);width:"500px";
+
+
+
 }
-h1{
-    font-size: 50px;
-    font-family:verdana;
-    padding:40px;
-    padding-left:28%;
+.titulo{
+    font-size:60px;
+    color: #cb7e7e;
+    font-family:go;
+    padding: 5%;
+    padding-left:42%;
 }
