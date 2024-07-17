@@ -1,7 +1,7 @@
 body{
     background-image: url(Imagens/tec.jpg);
     width: 50%; height: 20%;
-    background-position:center;
+    /**background-position:center;--**/
 }
 h1{
     font-size: 50px;
