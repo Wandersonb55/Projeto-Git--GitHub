@@ -1,12 +1,12 @@
 body{
-background-image: url(Imagens/house-of-the-dragon-HBO.webp);
+background-image: url(Imagens/dragon.jpg.jpg);
 
 
 }
 h1{
     font-size:70px;
-    color: red;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #cb7e7e;
+    font-family:sans-serif;
     padding: auto;
-    padding-left:45%;
+    padding-left:50%;
 }
