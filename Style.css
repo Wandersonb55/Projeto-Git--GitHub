@@ -1,25 +1,11 @@
 body{
-<<<<<<< Updated upstream
-background-image: url(Imagens/dragon.jpg.jpg);width:"500px";
-
-
-
+background-image: url(Imagens/house-of-the-dragon-HBO.webp);
+padding-left:8%;
+background-color: rgb(107, 21, 21);
 }
 .titulo{
-    font-size:60px;
-    color: #cb7e7e;
-    font-family:go;
-    padding: 5%;
-    padding-left:42%;
-}
-=======
-    background-color: rgb(107, 21, 21);
-}
-h1{
-    font-size: 50px;
-    font-family:verdana;
-    padding:40px;
-    padding-left:28%;
+padding: 7%;
+padding-left:40%;
 }
 
 .corpo{
@@ -31,6 +17,4 @@ h1{
 .rodape{
     color: rgb(222, 215, 149);
     font-family: 'Courier New', Courier, monospace;
-    
-  
->>>>>>> Stashed changes
+}
