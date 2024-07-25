@@ -19,3 +19,7 @@ body{
     width: 100%;
     bottom: 0;
 }
+.test {
+    text-decoration: none;
+    color: inherit;
+}
