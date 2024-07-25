@@ -1,6 +1,6 @@
 body{
     background-image: url(Imagens/web.jpeg);
-    background-position:no right;
+    /* background-position:no right; */
     width:100%;
     font-size: 20px;
     font-family:sans-serif;
@@ -19,10 +19,7 @@ body{
     width: 100%;
     bottom: 0;
 }
-/* .test {
+.test {
     text-decoration:none;
     color:inherit;
-} */
-.hover{
-    color: white;
 }
