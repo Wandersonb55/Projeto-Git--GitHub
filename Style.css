@@ -1,20 +1,25 @@
 body{
-background-image: url(Imagens/house-of-the-dragon-HBO.webp);
-padding-left:8%;
-background-color: rgb(107, 21, 21);
+    background-image: url(Imagens/web.jpeg);
+    background-position:no right;
+    width:100%;
+    font-size: 20px;
+    font-family:sans-serif;
+    color: rgb(239, 232, 232);
 }
 .titulo{
-padding: 7%;
-padding-left:40%;
-}
-
-.corpo{
-    font-family:Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    color: rgb(223, 114, 114);
-    margin: 1px;
+    text-align:center;
+    padding: 4%;
 }
 .rodape{
-    color: rgb(222, 215, 149);
-    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    background-color: #abb48e;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+.test {
+    text-decoration: none;
+    color: inherit;
 }
