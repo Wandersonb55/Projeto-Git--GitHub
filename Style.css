@@ -20,6 +20,6 @@ body{
     bottom: 0;
 }
 .test {
-    text-decoration: none;
-    color: inherit;
+    text-decoration:none;
+    color:white;
 }
